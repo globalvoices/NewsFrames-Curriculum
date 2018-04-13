@@ -43,7 +43,7 @@ h1 {
 }
 
 hr {
-  background: #249295;
+  background: #0f6da8;
   width: 50%;
   height: 2px;
   border: none;
@@ -89,9 +89,9 @@ hr {
 }
 
 .summary {
-  color: #068184;
-  border-left: solid 2px #7cb3bs;
-  background: #b9cece;
+  color: #07394f;
+  border-left: solid 2px #5daacc;
+  background: #a1c2d1;
   margin: 25px 0 35px 0;
   font-size: 18px;
   line-height: 145%;
@@ -100,9 +100,9 @@ hr {
 }
 
 blockquote {
-  color: #068184;
-  border-left: solid 2px #7cb3bs;
-  background: #b9cece;
+  color: #07394f;
+  border-left: solid 2px #5daacc;
+  background: #a1c2d1;
   margin: 25px 0 35px 0;
   font-size: 16px;
   line-height: 150%;
@@ -190,7 +190,7 @@ article.main *:not(.activity-menu) {
 /* Left column Navigation */
 
 aside {
-  background: #249295;
+  background: #0f6da8;
   flex-grow: 0;
   flex-shrink: 0;
   flex-basis: 300px;
@@ -292,7 +292,7 @@ ul.agenda {
 
 .agenda code {
   padding: 1px 4px;
-  color: #068184;
+  color: #07394f;
   background: #b9cece;
 }
 
@@ -391,7 +391,7 @@ figure img {
 }
 
 .agenda-navigation li.selected a {
-  background: #1C7072;
+  background: #043f63;
 }
 
 .agenda-navigation li a {
@@ -404,7 +404,7 @@ figure img {
 }
 
 .agenda-navigation a:hover {
-  background: #1f8e91;
+  background: #045b91;
 }
 
 .agenda-navigation li.selected a {
@@ -576,8 +576,8 @@ figure img {
 /* Fancy red list */
 
 ul.fancy, ol.fancy {
-  background: #b9cece;
-  color: #068184;
+  background: #5daacc;
+  color: #07394f;
   border-radius: 2px;
   margin: 20px 0 35px 0;
   padding: 8px 35px 8px 40px;
@@ -589,7 +589,7 @@ ul.fancy {
 }
 
 .fancy li, .agenda .fancy li {
-  color: #068184;
+  color: #07394f;
   border-bottom: solid 1px rgba(203,35,79,.15);
   padding: 14px 0 !important;
 }
